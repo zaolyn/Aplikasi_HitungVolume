@@ -8,5 +8,4 @@ Binding View / findViewById()
 mengambil nilai dari edittext ==> editText.get.Text().toString();
 parsing / mengubah String ke int ==> Interger.parseInt(etTinggi.getText().toString());
 
-![alt text]( https://imgur.com/a/P3OgP0T.png )
-
+![alt text]( https://imgur.com/gallery/P3OgP0T.png )
